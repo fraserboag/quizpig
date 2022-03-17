@@ -1,0 +1,2068 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "5",
+          "incorrect_answers": ["6", "4", "3"],
+          "question": "How many lines are there in a Limerick?"
+        },
+        {
+          "question": "What is the Indian name given to food cooked over charcoal in a clay oven?",
+          "correct_answer": "Tandoori",
+          "incorrect_answers": ["Biryani", "Pani puri", "Tikka masala"]
+        },
+        {
+          "question": "In the Christian Bible, what is the first book of the Old Testament?",
+          "correct_answer": "Genesis",
+          "incorrect_answers": ["Exodus", "Leviticus", "Numbers"]
+        },
+        {
+          "correct_answer": "Jeff Koons",
+          "incorrect_answers": ["Damien Hirst", "Banksy", "Andy Warhol"],
+          "question": "In 2013, which artist sold a balloon dog for $58 million?"
+        },
+        {
+          "question": "What is the cocktail called which consists of tequila, triple sec and lime juice?",
+          "correct_answer": "Margarita",
+          "incorrect_answers": ["Martini", "Bloody Mary", "Tequila Sunrise"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Who had a 1983 hit with the song &#039;Africa&#039;?",
+          "correct_answer": "Toto",
+          "incorrect_answers": ["Foreigner", "Steely Dan", "Journey"]
+        },
+        {
+          "question": "Which country does the band Rammstein hail from?",
+          "correct_answer": "Germany",
+          "incorrect_answers": ["France", "Armenia", "Belgium"]
+        },
+        {
+          "question": "In which video game did the character &quot;Mario&quot; make his first appearance?",
+          "correct_answer": "Donkey Kong",
+          "incorrect_answers": ["Pong", "Doom", "Yoshi's Island"]
+        },
+        {
+          "question": "What is Batman's real name?",
+          "correct_answer": "Bruce Wayne",
+          "incorrect_answers": ["Clark Kent", "Barry Allen", "Tony Stark"]
+        },
+        {
+          "correct_answer": "The Shining",
+          "incorrect_answers": ["It", "Carrie", "Misery"],
+          "question": "Which Stephen King novel takes place primarily in Overlook Hotel?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Mt. Kilimanjaro",
+          "incorrect_answers": ["Mt. Kenya", "Mt. Stanley", "Mt. Speke"],
+          "question": "What is the tallest mountain in Africa?"
+        },
+        {
+          "question": "Which of these countries was not formerly part of Yugoslavia?",
+          "correct_answer": "Albania",
+          "incorrect_answers": ["Croatia", "Serbia", "Macedonia"]
+        },
+        {
+          "question": "The Pyrenees mountains are located on the border of which two countries?",
+          "correct_answer": "France and Spain",
+          "incorrect_answers": ["Italy and Switzerland", "Norway and Sweden", "Russia and Ukraine"]
+        },
+        {
+          "correct_answer": "Cairo",
+          "incorrect_answers": ["Alexandria", "Luxor", "Memphis"],
+          "question": "The Great Pyramid of Giza is located close to which Egyptian city?"
+        },
+        {
+          "question": "The Hunua Ranges is located in which country?",
+          "correct_answer": "New Zealand",
+          "incorrect_answers": ["Nepal", "China", "Mexico"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "King Henry VIII was the second monarch of which European royal house?",
+          "correct_answer": "Tudor",
+          "incorrect_answers": ["York", "Stuart", "Lancaster"]
+        },
+        {
+          "question": "Which country gifted the Statue of Liberty to the United States of America?",
+          "correct_answer": "France",
+          "incorrect_answers": ["Spain", "England", "Germany"]
+        },
+        {
+          "question": "Which civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+          "correct_answer": "The Mayans",
+          "incorrect_answers": ["The Incas", "The Aztecs", "The Navajos"]
+        },
+        {
+          "question": "What are the first names of the first father and son pair that were both Prime Ministers of Canada?",
+          "correct_answer": "Justin and Pierre",
+          "incorrect_answers": ["John and Louis", "Brian and Justin", "Brian and Pierre"]
+        },
+        {
+          "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+          "correct_answer": "Horse",
+          "incorrect_answers": ["Weave", "Guitar", "Boat"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+          "correct_answer": "Ursus Maritimus",
+          "incorrect_answers": ["Polar Bear", "Ursus Spelaeus", "Ursus Arctos"]
+        },
+        {
+          "correct_answer": "Ear",
+          "incorrect_answers": ["Nose", "Finger", "Toe"],
+          "question": "Where would you find the three smallest bones in the human body?"
+        },
+        {
+          "question": "Which element has the chemical symbol &#039;Fe&#039;?",
+          "correct_answer": "Iron",
+          "incorrect_answers": ["Gold", "Silver", "Tin"]
+        },
+        {
+          "question": "What is the closest planet to our solar system&#039;s sun?",
+          "correct_answer": "Mercury",
+          "incorrect_answers": ["Mars", "Jupiter", "Earth"]
+        },
+        {
+          "question": "What substance are human nails and hair made of?",
+          "correct_answer": "Keratin",
+          "incorrect_answers": ["Bone", "Chitin", "Calcium"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "On which continent did the pineapple plant originate?",
+          "correct_answer": "South America",
+          "incorrect_answers": ["Africa", "Europe", "Asia"]
+        },
+        {
+          "question": "What is the French word for &quot;hat&quot;?",
+          "correct_answer": "Chapeau",
+          "incorrect_answers": ["Bonnet", " &Eacute;charpe", "Casque"]
+        },
+        {
+          "question": "The planet Earth is located in which galaxy?",
+          "correct_answer": "Milky Way",
+          "incorrect_answers": ["Mars", "Alpha Centauri", "Black Hole"]
+        },
+        {
+          "question": "What do the letters in the GMT time zone stand for?",
+          "correct_answer": "Greenwich Mean Time",
+          "incorrect_answers": ["Global Meridian Time", "General Median Time", "Glasgow Man Time"]
+        },
+        {
+          "correct_answer": "Van Gogh",
+          "incorrect_answers": ["Rembrandt", "Mondrian", "Bosch"],
+          "question": "\"The Starry Night\" is a post-impressionist painting by which Dutch artist?"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
+          "correct_answer": "Bruce Lee",
+          "incorrect_answers": ["Jackie Chan", "Jet Li", "Yun-Fat Chow"]
+        },
+        {
+          "question": "Kanye West at the 2009 VMAs famously interrupted which celebrity?",
+          "correct_answer": "Taylor Swift",
+          "incorrect_answers": ["MF DOOM", "Beyonce", "Beck"]
+        },
+        {
+          "question": "What team did England beat to win the 1966 World Cup final?",
+          "correct_answer": "West Germany",
+          "incorrect_answers": ["Soviet Union", "Portugal", "Brazil"]
+        },
+        {
+          "correct_answer": "Josh Homme",
+          "incorrect_answers": ["Dave Grohl", "Kurt Cobain", "Troy Van Leeuwen"],
+          "question": "Who is the lead singer of rock band \"Queens of the Stone Age\"?"
+        },
+        {
+          "correct_answer": "1977",
+          "incorrect_answers": ["1967", "1957", "1987"],
+          "question": "In which year did Elvis Presley die?"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "English",
+          "incorrect_answers": ["French", "Spanish", "Dutch"],
+          "question": "What is the official language of Nigeria?"
+        },
+        {
+          "correct_answer": "LHR",
+          "incorrect_answers": ["HRW", "HTR", "LHW"],
+          "question": "What is the IATA airport code for Heathrow Airport?"
+        },
+        {
+          "question": "Which of these countries has three capital cities?",
+          "correct_answer": "South Africa",
+          "incorrect_answers": ["Somalia", "China", "France"]
+        },
+        {
+          "correct_answer": "Mount Everest",
+          "incorrect_answers": ["K2", "Mount Fuji", "Mount Kilimanjaro"],
+          "question": "What is the tallest mountain on Earth?"
+        },
+        {
+          "correct_answer": "Burj Khalifa",
+          "incorrect_answers": ["Shanghai Tower", "One World Trade Center", "CTF Finance Center"],
+          "question": "What is the tallest building on earth?"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",
+          "correct_answer": "Chile",
+          "incorrect_answers": ["Ethiopia", "Indonesia", "Nicaragua"]
+        },
+        {
+          "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+          "correct_answer": "Nikita Khrushchev",
+          "incorrect_answers": ["Leonid Brezhnev", "Mikhail Gorbachev", "Boris Yeltsin"]
+        },
+        {
+          "correct_answer": "Euston",
+          "incorrect_answers": ["Victoria", "Charing Cross", "Paddington"],
+          "question": "What was the first major intercity railway station built in London?"
+        },
+        {
+          "question": "Which of these countries was an allied power in World War II?",
+          "correct_answer": "Soviet Union",
+          "incorrect_answers": ["Italy", "Germany", "Japan"]
+        },
+        {
+          "correct_answer": "Rubicon",
+          "incorrect_answers": ["Tiber", "Euphrates", "Nile"],
+          "question": "Julius Caesar famously said 'The die is cast' after crossing which river?"
+        }
+      ]
+    },
+    {
+      "id": "lock1",
+      "level_type": "lock",
+      "unlock_requirement": 19,
+      "lock_after_id": 9
+    },
+    {
+      "id": 10,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Blood",
+          "incorrect_answers": ["Saliva", "Hair", "Phlegm"],
+          "question": "What does a phlebotomist extract from the human body?"
+        },
+        {
+          "question": "Which of the following is a major muscle of the back?",
+          "correct_answer": "Trapezius",
+          "incorrect_answers": ["Trapezium", "Trapezoid", "Triquetrum"]
+        },
+        {
+          "correct_answer": "Solid",
+          "incorrect_answers": ["Liquid", "Gas", "Plasma"],
+          "question": "In what state of matter are atoms most tightly packed together?"
+        },
+        {
+          "correct_answer": "The Sun",
+          "incorrect_answers": ["Proxima Centauri", "Sirius", "Barnard's Star"],
+          "question": "What is the closest star to Earth?"
+        },
+        {
+          "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+          "correct_answer": "212",
+          "incorrect_answers": ["326", "100", "451"]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Cashmere is the wool from which kind of animal?",
+          "correct_answer": "Goat",
+          "incorrect_answers": ["Sheep", "Camel", "Llama"]
+        },
+        {
+          "correct_answer": "Tolstoy",
+          "incorrect_answers": ["Dostoevsky", "Chekov", "Pushkin"],
+          "question": "The 1869 epic novel \"War and Peace\" was by which Russian writer?"
+        },
+        {
+          "question": "Which reindeer isn't mentioned in the poem 'The Night Before Christmas'",
+          "correct_answer": "Rudolph",
+          "incorrect_answers": ["Blitzen", "Donner", "Dancer"]
+        },
+        {
+          "question": "When someone is cowardly, they are said to have what colour of belly?",
+          "correct_answer": "Yellow",
+          "incorrect_answers": ["Green", "Red", "Blue"]
+        },
+        {
+          "question": "Which condiment is also known as Japanese horseradish?",
+          "correct_answer": "Wasabi ",
+          "incorrect_answers": ["Mentsuyu", "Karashi", "Ponzu"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Who is the lead singer of the band Coldplay?",
+          "correct_answer": "Chris Martin",
+          "incorrect_answers": ["Chris Isaak", "Chris Wallace", "Chris Connelly"]
+        },
+        {
+          "question": "Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?",
+          "correct_answer": "Chicago",
+          "incorrect_answers": ["Dreamgirls", "Cabaret", "All That Jazz"]
+        },
+        {
+          "question": "What position does Harry Potter play in Quidditch?",
+          "correct_answer": "Seeker",
+          "incorrect_answers": ["Beater", "Chaser", "Keeper"]
+        },
+        {
+          "question": "Which Toronto landmark was featured on the cover art of Canadian rapper Drake&#039;s 2016 album &quot;Views&quot;?",
+          "correct_answer": "CN Tower",
+          "incorrect_answers": ["Allan Gardens", "Union Station", "Prince of Wales Theatre"]
+        },
+        {
+          "correct_answer": "*NSYNC",
+          "incorrect_answers": ["The Backstreet Boys", "Take That", "911"],
+          "question": "Which of these boybands formed in Florida in 1996?"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Alaska",
+          "incorrect_answers": ["Washington", "Maine", "Hawaii"],
+          "question": "Which American state is closest to Russia?"
+        },
+        {
+          "question": "Which of these countries is not located in Africa?",
+          "correct_answer": "Suriname",
+          "incorrect_answers": ["Burkina Faso", "Mozambique", "Algeria"]
+        },
+        {
+          "question": "Gibraltar, located just south of the Iberian peninsula, is a territory of which country?",
+          "correct_answer": "United Kingdom",
+          "incorrect_answers": ["Spain", "Portugal", "France"]
+        },
+        {
+          "question": "Which of these is the name of the largest city in the US state Tennessee?",
+          "correct_answer": "Memphis",
+          "incorrect_answers": ["Thebes", "Alexandria", "Luxor"]
+        },
+        {
+          "correct_answer": "Maya",
+          "incorrect_answers": ["Inca", "Aztec", "Otomi"],
+          "question": "The ancient city of Chichen Itza, located in modern day Mexico, was built by what people?"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "China",
+          "incorrect_answers": ["Japan", "Thailand", "Mongolia"],
+          "question": "The use of chopsticks originated in which country?"
+        },
+        {
+          "question": "Who became Prime Minister of the United Kingdom in July 2016?",
+          "correct_answer": "Theresa May",
+          "incorrect_answers": ["Boris Johnson", "David Cameron", "Tony Blair"]
+        },
+        {
+          "question": "In what year was the famous 45 foot tall Hollywood sign first erected?",
+          "correct_answer": "1923",
+          "incorrect_answers": ["1903", "1913", "1933"]
+        },
+        {
+          "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+          "correct_answer": "Amelia Earhart ",
+          "incorrect_answers": ["Beryl Markham", "Mary Johnson", "Elise Du Pont"]
+        },
+        {
+          "question": "Which U.S. President was in office when the Gulf War began?",
+          "correct_answer": "George H. W. Bush",
+          "incorrect_answers": ["Richard Nixon", "George W. Bush ", "Ronald Regan"]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Jupiter",
+          "incorrect_answers": ["Saturn", "Uranus", "Mars"],
+          "question": "What is the largest planet in our solar system?"
+        },
+        {
+          "correct_answer": "Snake",
+          "incorrect_answers": ["Spider", "Butterfly", "Crab"],
+          "question": "What type of creature is a Sidewinder?"
+        },
+        {
+          "question": "Which of the following bones is not in the leg?",
+          "correct_answer": "Radius",
+          "incorrect_answers": ["Patella", "Tibia", "Fibula "]
+        },
+        {
+          "question": "What is the scientific name of the knee cap?",
+          "correct_answer": "Patella",
+          "incorrect_answers": ["Femur", "Foramen Magnum", "Scapula"]
+        },
+        {
+          "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+          "correct_answer": "Binary",
+          "incorrect_answers": ["JavaScript", "C++", "Python"]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "How many furlongs are there in a mile?",
+          "correct_answer": "Eight",
+          "incorrect_answers": ["Two", "Four", "Six"]
+        },
+        {
+          "correct_answer": "Joseph Heller",
+          "incorrect_answers": ["Jack Kerouac", "John Steinbeck", "William Golding"],
+          "question": "Who wrote the book Catch-22?"
+        },
+        {
+          "question": "Which of these companies does not manufacture automobiles?",
+          "correct_answer": "Ducati",
+          "incorrect_answers": ["Nissan", "GMC", "Fiat"]
+        },
+        {
+          "correct_answer": "Left Shoulder",
+          "incorrect_answers": ["A ladder", "A horseshoe", "Right Ear"],
+          "question": "According to superstition, what should you throw salt over?"
+        },
+        {
+          "question": "Who was the King of Gods in ancient Greek mythology?",
+          "correct_answer": "Zeus",
+          "incorrect_answers": ["Apollo", "Hermes", "Poseidon"]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Who was the author of the 1954 novel, &quot;Lord of the Flies&quot;?",
+          "correct_answer": "William Golding",
+          "incorrect_answers": ["Stephen King", "F. Scott Fitzgerald", "Hunter Fox"]
+        },
+        {
+          "question": "Which celebrity announced his intention to run for president in 2015?",
+          "correct_answer": "Kanye West",
+          "incorrect_answers": ["Donald Trump", "Leonardo DiCaprio", "Miley Cyrus"]
+        },
+        {
+          "question": "Which French duo had UK hits in 1998 with the songs &#039;Sexy Boy&#039;, &#039;Kelly Watch The Stars&#039; &amp; &#039;All I Need&#039;?",
+          "correct_answer": "Air",
+          "incorrect_answers": ["Fire", "Earth", "Water"]
+        },
+        {
+          "question": "Which rap group released the album &quot;Straight Outta Compton&quot;?",
+          "correct_answer": "N.W.A",
+          "incorrect_answers": ["Wu-Tang Clan", "Run-D.M.C.", "Beastie Boys"]
+        },
+        {
+          "question": "In the movie &quot;Back to the Future,&quot; what speed does Doc Brown&#039;s DeLorean need to reach in order to travel through time?",
+          "correct_answer": "88 mph",
+          "incorrect_answers": ["77 mph", "100 mph", "69 mph"]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Tennessee",
+          "incorrect_answers": ["California", "Mississippi", "Georgia"],
+          "question": "Which US state is named on the label of Jack Daniels bottles?"
+        },
+        {
+          "question": "How many independent countries are there within the continent of South America?",
+          "correct_answer": "12",
+          "incorrect_answers": ["8", "16", "20"]
+        },
+        {
+          "question": "Which of these island countries is located in the Caribbean?",
+          "correct_answer": "Barbados",
+          "incorrect_answers": ["Fiji", "Maldives", "Seychelles"]
+        },
+        {
+          "correct_answer": "Sahara",
+          "incorrect_answers": ["Gobi", "Arabian", "Kalahari"],
+          "question": "By area, what is the largest hot desert on Earth?"
+        },
+        {
+          "correct_answer": "Egypt",
+          "incorrect_answers": ["Morocco", "Algeria", "Libya"],
+          "question": "Port Said can be found in which North African country?"
+        }
+      ]
+    },
+    {
+      "id": "lock2",
+      "level_type": "lock",
+      "unlock_requirement": 38,
+      "lock_after_id": 18
+    },
+    {
+      "id": 19,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "The Battle of Hastings was fought in which year?",
+          "correct_answer": "1066",
+          "incorrect_answers": ["911", "1204", "1420"]
+        },
+        {
+          "question": "What does the United States of America celebrate on the 4th of July?",
+          "correct_answer": "The signing of the Declaration of Independence",
+          "incorrect_answers": [
+            "The anniversary of the Battle of Gettysburg",
+            "The crossing of the Delaware River",
+            "The ratification of the Constitution"
+          ]
+        },
+        {
+          "correct_answer": "Caledonia",
+          "incorrect_answers": ["Ecosse", "Scotia", "Scotland"],
+          "question": "What was the Latin name used by the Romans for Scotland?"
+        },
+        {
+          "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+          "correct_answer": "Shogun",
+          "incorrect_answers": ["Ninja", "Samurai", "Shinobi"]
+        },
+        {
+          "correct_answer": "Serbia",
+          "incorrect_answers": ["Russia", "United States", "Germany"],
+          "question": "Inventor Nikola Tesla was born in 1856 in which country?"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Wind",
+          "incorrect_answers": ["Choking", "Blood", "Water"],
+          "question": "Anemophobia is the fear of what?"
+        },
+        {
+          "question": "What is the standard SI unit for temperature?",
+          "correct_answer": "Kelvin",
+          "incorrect_answers": ["Fahrenheit", "Celsius", "Rankine"]
+        },
+        {
+          "correct_answer": "1000",
+          "incorrect_answers": ["100", "10000", "100000"],
+          "question": "To the nearest hundred, how many megabytes are there in one gigabyte?"
+        },
+        {
+          "question": "The medical term for the belly button is which of the following?",
+          "correct_answer": "Umbilicus",
+          "incorrect_answers": ["Nevus", "Nares", "Paxillus"]
+        },
+        {
+          "question": "What is known as &quot;the brain&quot; of the Computer?",
+          "correct_answer": "Central Processing Unit",
+          "incorrect_answers": ["Motherboard", "Graphics Processing Unit", "Keyboard"]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "George Orwell",
+          "incorrect_answers": ["H.G. Wells", "John Wyndham", "John Steinbeck"],
+          "question": "Who wrote the 1948 novel 'Nineteen Eighty-Four'?"
+        },
+        {
+          "question": "Who invented the first ever chocolate bar, in 1847?",
+          "correct_answer": "Joseph Fry",
+          "incorrect_answers": ["Andrew Johnson", "John Cadbury", "John Tyler"]
+        },
+        {
+          "question": "Nephelococcygia is the practice of doing what?",
+          "correct_answer": "Finding shapes in clouds",
+          "incorrect_answers": [
+            "Sleeping with your eyes open",
+            "Breaking glass with your voice",
+            "Swimming in freezing water"
+          ]
+        },
+        {
+          "question": "What is the name given to the art of miniaturising trees and maintaining their small size?",
+          "correct_answer": "Bonsai",
+          "incorrect_answers": ["Ornamental Shrubbery", "Decorage", "Topiary"]
+        },
+        {
+          "question": "Which familiar carbonated soft drink contains quinine?",
+          "correct_answer": "Tonic Water ",
+          "incorrect_answers": ["Dr Pepper", "Coca Cola", "Soda Water"]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Passepartout",
+          "incorrect_answers": ["Claude", "Emmanuel", "Truffaut"],
+          "question": "What is the name of Phileas Fogg's man servant in 'Around the World in 80 Days'?"
+        },
+        {
+          "correct_answer": "Charlton Heston",
+          "incorrect_answers": ["Clark Gable", "James Dean", "Tony Curtis"],
+          "question": "Who starred in the 1959 film 'Ben Hur'?"
+        },
+        {
+          "question": "What is the name of the first &quot;Star Wars&quot; film by release order?",
+          "correct_answer": "A New Hope",
+          "incorrect_answers": ["The Phantom Menace", "The Force Awakens", "Revenge of the Sith"]
+        },
+        {
+          "correct_answer": "Natalie Imbruglia",
+          "incorrect_answers": ["Colin Hay", "Katie Melua", "Kylie Minogue"],
+          "question": "Which Australian singer released the 1997 hit \"Torn\"?"
+        },
+        {
+          "correct_answer": "H.G. Wells",
+          "incorrect_answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury"],
+          "question": "Who wrote the 1898 novel 'The War of the Worlds'?"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Volga",
+          "incorrect_answers": ["Danube", "Rhine", "Seine"],
+          "question": "What is the longest river in Europe?"
+        },
+        {
+          "question": "What is the capital of Jamaica?",
+          "correct_answer": "Kingston",
+          "incorrect_answers": ["San Juan", "Port-au-Prince", "Bridgetown"]
+        },
+        {
+          "correct_answer": "Mt. Fuji",
+          "incorrect_answers": ["Mt. Kita", "Mt. Fuji", "Mt. Yari"],
+          "question": "What is the tallest mountain in Japan?"
+        },
+        {
+          "question": "What is the smallest country in the world?",
+          "correct_answer": "Vatican City",
+          "incorrect_answers": ["Maldives", "Monaco", "Malta"]
+        },
+        {
+          "question": "Where would you find the &quot;Spanish Steps&quot;?",
+          "correct_answer": "Rome, Italy",
+          "incorrect_answers": ["Barcelona, Spain", "Berlin, Germany", "London, England"]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "In what year did Neil Armstrong and Buzz Aldrin land on the moon?",
+          "correct_answer": "1969",
+          "incorrect_answers": ["1965", "1966", "1973"]
+        },
+        {
+          "correct_answer": "Japan",
+          "incorrect_answers": ["USA", "UK", "Germany"],
+          "question": "Which country owned the largest battleship in World War II?"
+        },
+        {
+          "question": "The Second Boer War in 1899 was fought where?",
+          "correct_answer": "South Africa",
+          "incorrect_answers": ["Argentina", "Nepal", "Bulgaria"]
+        },
+        {
+          "question": "Which of the following presidents is not on Mount Rushmore?",
+          "correct_answer": "John F. Kennedy",
+          "incorrect_answers": ["Theodore Roosevelt", "Abraham Lincoln", "Thomas Jefferson"]
+        },
+        {
+          "question": "What did the abbreviation &quot;RMS&quot; stand for in the RMS Titanic in 1912?",
+          "correct_answer": "Royal Mail Ship",
+          "incorrect_answers": ["Royal Majesty Service", "Regular Maritime Schedule", "Regulated Maelstrom Sensor"]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "3",
+          "incorrect_answers": ["1", "2", "4"],
+          "question": "How many stars make up the constellation Orion's belt?"
+        },
+        {
+          "question": "The word &quot;science&quot; stems from the Latin word &quot;scire&quot; meaning what?",
+          "correct_answer": "To know",
+          "incorrect_answers": ["To measure", "To live", "To count"]
+        },
+        {
+          "correct_answer": "Oak",
+          "incorrect_answers": ["Elm", "Asp", "Willow"],
+          "question": "Which tree produces acorns?"
+        },
+        {
+          "question": "Alzheimer&#039;s disease primarily affects which part of the human body?",
+          "correct_answer": "Brain",
+          "incorrect_answers": ["Lungs", "Skin", "Heart"]
+        },
+        {
+          "question": "What name is given to all baby marsupials?",
+          "correct_answer": "Joey",
+          "incorrect_answers": ["Calf", "Pup", "Cub"]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "What is &quot;dabbing&quot;?",
+          "correct_answer": "A dance",
+          "incorrect_answers": ["A medical procedure", "A sport", "A language"]
+        },
+        {
+          "correct_answer": "Rodin",
+          "incorrect_answers": ["Michaelangelo", "Donatello", "Giacometti"],
+          "question": "\"The Thinker\" is an early 20th century piece by which sculptor?"
+        },
+        {
+          "question": "On average, Americans consume 100 pounds of what per second?",
+          "correct_answer": "Chocolate",
+          "incorrect_answers": ["Potatoes", "Donuts", "Cocaine"]
+        },
+        {
+          "question": "Which american artist is known for a portrait of his mother?",
+          "correct_answer": "James Whistler",
+          "incorrect_answers": ["Andy Warhol", "Grant Wood", "Eddie Harold"]
+        },
+        {
+          "question": "Which of these countries drives on the left side of the road?",
+          "correct_answer": "Japan",
+          "incorrect_answers": ["Germany", "Russia", "China"]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Fawlty Towers",
+          "incorrect_answers": ["Are You Being Served", "Open All Hours", "Porridge"],
+          "question": "In which British sitcom did Andrew Sachs appear as the character 'Manuel'?"
+        },
+        {
+          "question": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+          "correct_answer": "The Muppets Take Manhattan",
+          "incorrect_answers": ["The Great Muppet Caper", "The Muppet Christmas Carol", "The Muppet Movie"]
+        },
+        {
+          "correct_answer": "60",
+          "incorrect_answers": ["180", "50", "20"],
+          "question": "In a game of darts, what is the highest number possible to be scored with one dart?"
+        },
+        {
+          "correct_answer": "Mohammed Ali",
+          "incorrect_answers": ["Bob Dylan", "Woody Allen", "Prince"],
+          "question": "Who was born with the name Cassius Clay?"
+        },
+        {
+          "question": "Which animated movie was first to feature a celebrity as a voice actor?",
+          "correct_answer": "Aladdin",
+          "incorrect_answers": ["Toy Story", "James and the Giant Peach", "The Hunchback of Notre Dame"]
+        }
+      ]
+    },
+    {
+      "id": "lock3",
+      "level_type": "lock",
+      "unlock_requirement": 57,
+      "lock_after_id": 27
+    },
+    {
+      "id": 28,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "What is the largest lake in Africa?",
+          "correct_answer": "Lake Victoria",
+          "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"]
+        },
+        {
+          "question": "What country is the second largest in the world by area?",
+          "correct_answer": "Canada",
+          "incorrect_answers": ["Russia", "China", "United States of America"]
+        },
+        {
+          "correct_answer": "Quito",
+          "incorrect_answers": ["Buenos Aires", "San Salvador", "Santiago"],
+          "question": "What is the capital of Ecuador?"
+        },
+        {
+          "question": "Which city is the capital of the United States of America?",
+          "correct_answer": "Washington D.C",
+          "incorrect_answers": ["Seattle", "Albany", "Los Angeles"]
+        },
+        {
+          "correct_answer": "Champ de Mars",
+          "incorrect_answers": ["Bois de Boulogne", "Jardin Des Plantes", "Parc de Belleville"],
+          "question": "Where in Paris is The Eiffel Tower located?"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Bannockburn",
+          "incorrect_answers": ["Stirling Bridge", "Culloden", "Ancrum Moor"],
+          "question": "At which battle of 1314 did Robert the Bruce defeat the English forces?"
+        },
+        {
+          "question": "Which of these countries was sea charted in 1500 by Portuguese maritime expeditions?",
+          "correct_answer": "Brazil",
+          "incorrect_answers": ["India", "Mozambique", "Madagascar"]
+        },
+        {
+          "correct_answer": "Ho Chi Minh",
+          "incorrect_answers": ["Mao Zedong", "Le Duan", "Pham Van Dong"],
+          "question": "Who was the president of Vietnam from 1945 to 1954?"
+        },
+        {
+          "correct_answer": "Soviet Union",
+          "incorrect_answers": ["United States", "United Kingdom", "China"],
+          "question": "The first man made object to land on the moon was launched by which country?"
+        },
+        {
+          "correct_answer": "The Alps",
+          "incorrect_answers": ["The Himalayas", "The Urals", "The Andes"],
+          "question": "Which mountain range did Hannibal and his elephants famously march through in 218 B.C.?"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "What is a rhino&#039;s horn made of?",
+          "correct_answer": "Keratin",
+          "incorrect_answers": ["Bone", "Ivory", "Skin"]
+        },
+        {
+          "question": "The medical condition osteoporosis affects which part of the body?",
+          "correct_answer": "Bones",
+          "incorrect_answers": ["Skin", "Brain", "Heart"]
+        },
+        {
+          "question": "How many chromosomes are in your body's cells?",
+          "correct_answer": "23",
+          "incorrect_answers": ["20", "26", "29"]
+        },
+        {
+          "correct_answer": "Camels",
+          "incorrect_answers": ["Rhinoceros", "Elephants", "Horses"],
+          "question": "A caravan is a group of which animals?"
+        },
+        {
+          "correct_answer": "Planetary Motion",
+          "incorrect_answers": ["Thermodynamics", "Gravity", "Kinetics"],
+          "question": "Which laws of the universe is Johannes Kepler best known for describing?"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+          "correct_answer": "Andy Warhol",
+          "incorrect_answers": ["Roy Lichtenstein", "David Hockney", "Peter Blake"]
+        },
+        {
+          "question": "What is Enology the study of?",
+          "correct_answer": "Wine and winemaking",
+          "incorrect_answers": ["Disgusting things", "The Soviet Union", "Bell ringing"]
+        },
+        {
+          "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+          "correct_answer": "Truth",
+          "incorrect_answers": ["Answer", "Cause", "Source"]
+        },
+        {
+          "question": "Which artist painted \"The Great Wave off Kanagawa\"",
+          "correct_answer": "Hokusai",
+          "incorrect_answers": ["Pablo Picasso", "Vasily Kandinsky", "Gustave Courbet"]
+        },
+        {
+          "question": "Before the 19th Century, the &quot;Living Room&quot; would typically be called the...",
+          "correct_answer": "Parlor",
+          "incorrect_answers": ["Open Room", "Sitting Room", "Loft"]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Peter Sellers",
+          "incorrect_answers": ["Jack Lemmon", "Henry Kissinger", "Brad Pitt"],
+          "question": "Who was the first man to appear on the cover of Playboy?"
+        },
+        {
+          "question": "Which movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;?",
+          "correct_answer": "Dirty Dancing",
+          "incorrect_answers": ["Three Men and a Baby", "Ferris Bueller&#039;s Day Off", "Pretty in Pink"]
+        },
+        {
+          "correct_answer": "Calvin Broadus",
+          "incorrect_answers": ["Curtis Jackson III", "Andre Young", "O'Shea Jackson"],
+          "question": "What is rapper Snoop Dogg's real name?"
+        },
+        {
+          "correct_answer": "Baseball",
+          "incorrect_answers": ["Football", "Basketball", "Ice Hockey"],
+          "question": "Which sport is known as the \"American pastime\"?"
+        },
+        {
+          "question": "What was the name of the sea witch in the 1989 Disney film &quot;The Little Mermaid&quot;?",
+          "correct_answer": "Ursula",
+          "incorrect_answers": ["Madam Mim", "Maleficent", "Lady Tremaine"]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "What is the largest city and commercial capital of Sri Lanka?",
+          "correct_answer": "Colombo",
+          "incorrect_answers": ["Moratuwa", "Negombo", "Kandy"]
+        },
+        {
+          "correct_answer": "New Zealand",
+          "incorrect_answers": ["Australia", "South Africa", "Indonesia"],
+          "question": "Wellington is the capital city of which country?"
+        },
+        {
+          "question": "The Alps are a mountain range on which continent?",
+          "correct_answer": "Europe",
+          "incorrect_answers": ["North America", "Asia", "Africa"]
+        },
+        {
+          "question": "Which site in North America was named after the Mohawk Indian word meaning \"thunder of waters\"?",
+          "correct_answer": "Niagara falls",
+          "incorrect_answers": ["Lake Huron", "Yosemite", "Appalachian Mountains"]
+        },
+        {
+          "correct_answer": "Talinn",
+          "incorrect_answers": ["Riga", "St Petersburg", "Vilnius"],
+          "question": "What is the capital of Estonia?"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Agora",
+          "incorrect_answers": ["Forum", "Mercata", "Centrum"],
+          "question": "The part of an Ancient Greek city used as a market and meeting place was known as what?"
+        },
+        {
+          "question": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+          "correct_answer": "Tenerife",
+          "incorrect_answers": ["Fuerteventura", "Gran Canaria", "Maui"]
+        },
+        {
+          "correct_answer": "Dog",
+          "incorrect_answers": ["Monkey", "Mouse", "Cat"],
+          "question": "What type of animal was 'Laika', who was launched into orbit in 1957?"
+        },
+        {
+          "question": "Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?",
+          "correct_answer": "Australia",
+          "incorrect_answers": ["India", "Canada", "Brazil"]
+        },
+        {
+          "correct_answer": "Yuri Gagarin",
+          "incorrect_answers": ["Neil Armstrong", "Buzz Aldrin", "John Glenn"],
+          "question": "What was the name of the first man in space?"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "The moons Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+          "correct_answer": "Uranus",
+          "incorrect_answers": ["Jupiter", "Venus", "Earth"]
+        },
+        {
+          "question": "What lies at the center of our galaxy?",
+          "correct_answer": "A black hole",
+          "incorrect_answers": ["A wormhole", "A supernova", "A quasar"]
+        },
+        {
+          "question": "The humerus, paired radius, and ulna come together to form what joint?",
+          "correct_answer": "Elbow",
+          "incorrect_answers": ["Knee", "Sholder", "Ankle"]
+        },
+        {
+          "correct_answer": "Capillary",
+          "incorrect_answers": ["Red Blood Cell", "White Blood Cell", "Platelet"],
+          "question": "What tiny vessel connects an artery with a vein?"
+        },
+        {
+          "question": "What is the name for a male bee that comes from an unfertilized egg?",
+          "correct_answer": "Drone",
+          "incorrect_answers": ["Soldier", "Worker", "Male"]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "1",
+          "incorrect_answers": ["10", "100", "1000"],
+          "question": "How many paintings did Vincent Van Gogh sell during his lifetime?"
+        },
+        {
+          "question": "What is the most commonly used noun in the English language?",
+          "correct_answer": "Time",
+          "incorrect_answers": ["Home", "Water", "Man"]
+        },
+        {
+          "question": "Originally another word for poppy, coquelicot is a shade of what colour?",
+          "correct_answer": "Red",
+          "incorrect_answers": ["Green", "Blue", "Pink"]
+        },
+        {
+          "question": "Coulrophobia is the irrational fear of what?",
+          "correct_answer": "Clowns",
+          "incorrect_answers": ["Cemeteries", "Needles", "Tunnels"]
+        },
+        {
+          "question": "What is the world&#039;s most expensive spice by weight?",
+          "correct_answer": "Saffron",
+          "incorrect_answers": ["Cinnamon", "Cardamom", "Vanilla"]
+        }
+      ]
+    },
+    {
+      "id": "lock4",
+      "level_type": "lock",
+      "unlock_requirement": 76,
+      "lock_after_id": 36
+    },
+    {
+      "id": 37,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Tom, Dick and Harry",
+          "incorrect_answers": ["Steve, John and Rich", "Bill, Ben and Smith", "Jack, Harry and John"],
+          "question": "In the 1963 film 'The Great Escape', what names were given to the three tunnels?"
+        },
+        {
+          "question": "Who is the all-time top scorer for England national football team?",
+          "correct_answer": "Wayne Rooney",
+          "incorrect_answers": ["David Beckham", "Steven Gerrard", "Michael Owen"]
+        },
+        {
+          "question": "Which of these celebrities was not a member of the Jackson 5?",
+          "correct_answer": "Bo Jackson",
+          "incorrect_answers": ["Tito Jackson", "Jermaine Jackson", "Marlon Jackson"]
+        },
+        {
+          "correct_answer": "Bill Withers",
+          "incorrect_answers": ["Michael Jackson", "Luther Vandross", "Marvin Gaye"],
+          "question": "Who Had An 80's Hit With The Song 'Just The Two of Us,'? "
+        },
+        {
+          "correct_answer": "Silverstone",
+          "incorrect_answers": ["Brands Hatch", "Thruxton", "Knockhill"],
+          "question": "At which Formula 1 course is the British Grand Prix held?"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Tehran",
+          "incorrect_answers": ["Baghdad", "Islamabad", "New Delhi"],
+          "question": "What is the capital of Iran?"
+        },
+        {
+          "correct_answer": "Ottawa",
+          "incorrect_answers": ["Toronto", "Vancouver", "Montreal"],
+          "question": "What is the capital city of Canada?"
+        },
+        {
+          "correct_answer": "Pacific",
+          "incorrect_answers": ["Atlantic", "Indian", "Arctic"],
+          "question": "By volume, what is the largest ocean on Earth?"
+        },
+        {
+          "correct_answer": "Tokyo",
+          "incorrect_answers": ["New Delhi", "Shanghai", "Mexico City"],
+          "question": "Which city on Earth has the highest population?"
+        },
+        {
+          "question": "Which of these countries is not technically part of Scandinavia?",
+          "correct_answer": "Finland",
+          "incorrect_answers": ["Norway", "Sweden", "Denmark"]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Who was the first Chancellor of a united Germany in 1871? ",
+          "correct_answer": "Otto Von Bismark",
+          "incorrect_answers": ["Kaiser Wilhelm ", "Fredrick the 2nd", "Robert Koch"]
+        },
+        {
+          "question": "What was the historical name of Sri Lanka?",
+          "correct_answer": "Ceylon",
+          "incorrect_answers": ["Myanmar", "Colombo", "Badulla"]
+        },
+        {
+          "correct_answer": "Walter Raleigh",
+          "incorrect_answers": ["Christopher Columbus", "Francis Drake", "Roald Amundsen"],
+          "question": "Which 13th century explorer was buried with a pipe and a box of tobacco?"
+        },
+        {
+          "question": "Who was the British Prime Minister at the outbreak of the Second World War?",
+          "correct_answer": "Neville Chamberlain",
+          "incorrect_answers": ["Clement Attlee", "Winston Churchill", "Stanley Baldwin"]
+        },
+        {
+          "correct_answer": "1603",
+          "incorrect_answers": ["1503", "1403", "1703"],
+          "question": "In which year did Scotland & England unify under the union of the Crowns?"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Who developed the first successful polio vaccine in the 1950s?",
+          "correct_answer": "Jonas Salk",
+          "incorrect_answers": ["John F. Enders", "Thomas Weller", "Frederick Robbins"]
+        },
+        {
+          "correct_answer": "Random Access",
+          "incorrect_answers": ["Read Area", "Relative Access", "Really Awesome"],
+          "question": "In computing, what do the R and A in RAM commonly stand for?"
+        },
+        {
+          "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+          "correct_answer": "Nose",
+          "incorrect_answers": ["Ears", "Chin", "Neck"]
+        },
+        {
+          "correct_answer": "Cygnet",
+          "incorrect_answers": ["Gosling", "Swanlet", "Chick"],
+          "question": "What is a young swan called?"
+        },
+        {
+          "correct_answer": "Six",
+          "incorrect_answers": ["Two", "Four", "Eight"],
+          "question": "In imperial measurements, how many feet are in a fathom?"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "The Quadrangularis Reversum is which of the following?",
+          "correct_answer": "A percussion instrument",
+          "incorrect_answers": ["A building in Oxford University", "A chess move", "A geometric theorem"]
+        },
+        {
+          "question": "In which year was YouTube founded?",
+          "correct_answer": "2005",
+          "incorrect_answers": ["2000", "1995", "2010"]
+        },
+        {
+          "question": "Named after the mallow flower, mauve is a shade of what?",
+          "correct_answer": "Purple",
+          "incorrect_answers": ["Red", "Brown", "Pink"]
+        },
+        {
+          "question": "After how many years would you celebrate your crystal wedding anniversary?",
+          "correct_answer": "15",
+          "incorrect_answers": ["20", "10", "25"]
+        },
+        {
+          "correct_answer": "Paris",
+          "incorrect_answers": ["London", "Rome", "Berlin"],
+          "question": "Da Vinci's Mona Lisa is on permanent display in which European city?"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Abba",
+          "incorrect_answers": ["Pet Shop Boys", "The Rolling Stones", "The Beatles"],
+          "question": "Which music group was originally named 'Festfolk'?"
+        },
+        {
+          "question": "Which Stanley Kubrick directed movie is an adaptation of a Stephen King novel?",
+          "correct_answer": "The Shining",
+          "incorrect_answers": ["2001: A Space Odyssey", "Dr. Strangelove", "Eyes Wide Shut"]
+        },
+        {
+          "correct_answer": "The Three Stooges",
+          "incorrect_answers": ["The Three Degrees", "The Three Boys", "The Three Men"],
+          "question": "How were Moe Howard, Larry Fine and Curly Howard better known?"
+        },
+        {
+          "question": "When was Gangnam Style uploaded to YouTube?",
+          "correct_answer": "2012",
+          "incorrect_answers": ["2008", "2014", "2016"]
+        },
+        {
+          "correct_answer": "The Addams Family",
+          "incorrect_answers": ["The Butchers", "The Brady Bunch", "The Brothers Grimm"],
+          "question": "In TV, who did the character Lurch work for?"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Saigon",
+          "incorrect_answers": ["Hanoi", "Peking", "Honshu"],
+          "question": "The largest city in Vietnam, Ho Chi Minh City, was known as what before it was renamed in 1975?"
+        },
+        {
+          "correct_answer": "Abuja",
+          "incorrect_answers": ["Lagos", "Benin City", "Ibadan"],
+          "question": "What is the capital of Nigeria?"
+        },
+        {
+          "correct_answer": "Kiev",
+          "incorrect_answers": ["Minsk", "Budapest", "Bucharest"],
+          "question": "What is the capital of Ukraine?"
+        },
+        {
+          "correct_answer": "Empire State Building",
+          "incorrect_answers": ["Chrysler Building", "World Trade Centre", "Woolworth Building"],
+          "question": "Which New York City skyscraper stands at the intersection of Fifth Avenue and West 34th Street?"
+        },
+        {
+          "question": "Which state of the United States is the smallest?",
+          "correct_answer": "Rhode Island ",
+          "incorrect_answers": ["Maine", "Vermont", "Massachusetts"]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Thomas Edison",
+          "incorrect_answers": ["Alexander Bell", "Benjamin Franklin", "Ian Fleming"],
+          "question": "Who is credited with suggesting the word \"Hello\" be used when answering the telephone?"
+        },
+        {
+          "question": "Which of his six wives was Henry VIII married to the longest?",
+          "correct_answer": "Catherine of Aragon",
+          "incorrect_answers": ["Anne Boleyn", "Jane Seymour", "Catherine Parr"]
+        },
+        {
+          "correct_answer": "Mount Vesuvius",
+          "incorrect_answers": ["Mount Etna", "Mount Stromboli", "Mount Amiata"],
+          "question": "Which volcano's eruption in AD 79 led to the destruction of the Roman cities of Pompeii and Herculaneum?"
+        },
+        {
+          "correct_answer": "Apollo 11",
+          "incorrect_answers": ["Apollo 10", "Apollo 12", "Apollo 13"],
+          "question": "Which Apollo mission landed the first humans on the Moon?"
+        },
+        {
+          "correct_answer": "Turkey",
+          "incorrect_answers": ["Russia", "Israel", "Italy"],
+          "question": "The ancient city of Constantinople is situated in which modern day country?"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Which of these terms is best associated with Sigmund Freud?",
+          "correct_answer": "Psychoanalysis",
+          "incorrect_answers": ["Cognitive-Behavioral Therapy", "Theory of Gravity", "Dialectical Behavior Therapy"]
+        },
+        {
+          "question": "How many planets are in our Solar System?",
+          "correct_answer": "8",
+          "incorrect_answers": ["10", "6", "12"]
+        },
+        {
+          "correct_answer": "Deciduous",
+          "incorrect_answers": ["Evergreen", "Annual", "Biennial"],
+          "question": "What word describes trees which shed their leaves periodically?"
+        },
+        {
+          "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+          "correct_answer": "Micronesia",
+          "incorrect_answers": ["Fiji", "Tuvalu", "Marshall Islands"]
+        },
+        {
+          "question": "What is the unit of electrical resistance?",
+          "correct_answer": "Ohm",
+          "incorrect_answers": ["Mho", "Tesla", "Joule"]
+        }
+      ]
+    },
+    {
+      "id": "lock5",
+      "level_type": "lock",
+      "unlock_requirement": 95,
+      "lock_after_id": 45
+    },
+    {
+      "id": 46,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "What year was Queen Elizabeth II born?",
+          "correct_answer": "1926",
+          "incorrect_answers": ["1920", "1932", "1938"]
+        },
+        {
+          "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+          "correct_answer": "Shiatsu",
+          "incorrect_answers": ["Ukiyo", "Majime", "Ikigai"]
+        },
+        {
+          "question": "According to the BBPA, what is the most common pub name in the UK?",
+          "correct_answer": "Red Lion",
+          "incorrect_answers": ["Royal Oak", "White Hart", "King&#039;s Head"]
+        },
+        {
+          "question": "Which drink is made from the leaves of the wormwood plant?",
+          "correct_answer": "Absinthe",
+          "incorrect_answers": ["Gin", "Port", "Whisky"]
+        },
+        {
+          "correct_answer": "Leonard Nimoy",
+          "incorrect_answers": ["William Shatner", "George Takei", "DeForest Kelley"],
+          "question": "Who named his autobiography \"I am not Spock\"?"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "The Smiths",
+          "incorrect_answers": ["The Cure", "Duran Duran", "Tears for Fears"],
+          "question": "Morrissey was the lead singer of which 80s Manchester band?"
+        },
+        {
+          "question": "Kanye West&#039;s &quot;Gold Digger&quot; featured which Oscar-winning actor?",
+          "correct_answer": "Jamie Foxx",
+          "incorrect_answers": ["Alec Baldwin", "Dwayne Johnson", " Bruce Willis"]
+        },
+        {
+          "correct_answer": "Shane Mcgowan",
+          "incorrect_answers": ["Morrissey", "John Lennon", "Ozzy Osbourne"],
+          "question": "Which singer once took a bite out of a Beach Boys record during a press conference?"
+        },
+        {
+          "question": "Who was &quot;Kung Fu Fighting&quot; in 1974?",
+          "correct_answer": "Carl Douglas",
+          "incorrect_answers": ["The Bee Gees", "Heatwave", "Kool &amp; the Gang"]
+        },
+        {
+          "correct_answer": "Guys and Dolls",
+          "incorrect_answers": ["Cats", "West Side Story", "Grease"],
+          "question": "The song 'Luck be a Lady' features in which musical?"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "The Space Needle is located in which city?",
+          "correct_answer": "Seattle",
+          "incorrect_answers": ["Los Angles", "Toronto", "Vancouver"]
+        },
+        {
+          "correct_answer": "Bermuda Triangle",
+          "incorrect_answers": ["Bering Strait", "Magellan Strait", "North Sea"],
+          "question": "What infamous area touches the coasts of Florida, Bermuda and Puerto Rico?"
+        },
+        {
+          "question": "71% of the Earth&#039;s surface is made up of what?",
+          "correct_answer": "Water",
+          "incorrect_answers": ["Deserts", "Continents", "Forests"]
+        },
+        {
+          "question": "Which of these countries has the union jack on its flag?",
+          "correct_answer": "New Zealand",
+          "incorrect_answers": ["South Africa", "Canada", "Hong Kong"]
+        },
+        {
+          "question": "Muslims make pilgrimage to which of these places?",
+          "correct_answer": "Mecca",
+          "incorrect_answers": ["Tehran", "Dubai", "Riyadh"]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Julius Caesar",
+          "incorrect_answers": ["Adolf Hitler", "Idi Amin", "Benito Mussolini"],
+          "question": "Which famous dictator was assassinated on the Ides of March?"
+        },
+        {
+          "correct_answer": "Benito Mussolini",
+          "incorrect_answers": ["Silvio Berlusconi", "Bettino Craxi", "Luigi Facta"],
+          "question": "Who was the Prime Minister or Italy during World War II?"
+        },
+        {
+          "correct_answer": "Winston Churchill",
+          "incorrect_answers": ["Harold Macmillan", "John Major", "Clement Attlee"],
+          "question": "Which British Prime Minister has received the Nobel Prize for Literature?"
+        },
+        {
+          "question": "Which King of England was faced with the Peasants&#039; Revolt in 1381?",
+          "correct_answer": "Richard II",
+          "incorrect_answers": ["Edward III", "Edward II", "Henry IV"]
+        },
+        {
+          "question": "Which country had an &quot;Orange Revolution&quot; between 2004 and 2005?",
+          "correct_answer": "Ukraine",
+          "incorrect_answers": ["Belarus", "Latvia", "Lithuania"]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Au",
+          "incorrect_answers": ["Go", "Gl", "Ag"],
+          "question": "What is the chemical symbol for Gold?"
+        },
+        {
+          "question": "Which is the most abundant element in the universe?",
+          "correct_answer": "Hydrogen",
+          "incorrect_answers": ["Helium", "Lithium", "Oxygen"]
+        },
+        {
+          "question": "What is the primary addictive substance found in tobacco?",
+          "correct_answer": "Nicotine",
+          "incorrect_answers": ["Cathinone", "Ephedrine", "Glaucine"]
+        },
+        {
+          "question": "What does DNA stand for?",
+          "correct_answer": "Deoxyribonucleic Acid",
+          "incorrect_answers": ["Deoxyribogenetic Acid", "Deoxyribogenetic Atoms", "Detoxic Acid"]
+        },
+        {
+          "correct_answer": "9 weeks",
+          "incorrect_answers": ["6 weeks", "12 weeks", "15 weeks"],
+          "question": "For how long is a dog pregnant before giving birth?"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "What is the defining characteristic of someone who is described as hirsute?",
+          "correct_answer": "Hairy",
+          "incorrect_answers": ["Rude", "Funny", "Tall"]
+        },
+        {
+          "correct_answer": "Kung Fu",
+          "incorrect_answers": ["Karate", "Wing Chun", "Judo"],
+          "question": "What martial art's name means \"leisure time\"?"
+        },
+        {
+          "correct_answer": "Harper Lee",
+          "incorrect_answers": ["John Steinbeck", "Michael Crichton", "JD Salinger"],
+          "question": "Who wrote the 1960 novel \"To Kill a Mockingbird\"?"
+        },
+        {
+          "question": "How does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+          "correct_answer": "I came, I saw, I conquered",
+          "incorrect_answers": [
+            "See no evil, hear no evil, speak no evil",
+            "Life, liberty, and happiness",
+            "Past, present, and future"
+          ]
+        },
+        {
+          "question": "What does a funambulist walk on?",
+          "correct_answer": "A Tight Rope",
+          "incorrect_answers": ["Broken Glass", "Balls", "The Moon"]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "The 1952 musical composition 4&#039;33&quot;, composed by prolific American composer John Cage, is mainly comprised of what sound?",
+          "correct_answer": "Silence",
+          "incorrect_answers": ["Farts", "People talking", "Cricket chirps"]
+        },
+        {
+          "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+          "correct_answer": "Charlotte Bront&euml;",
+          "incorrect_answers": ["Emily Bront&euml;", "Jane Austen", "Louisa May Alcott"]
+        },
+        {
+          "question": "Which 80s band is fronted by singer/guitarist Robert Smith?",
+          "correct_answer": "The Cure",
+          "incorrect_answers": ["The Smiths", "Echo &amp; the Bunnymen", "New Order"]
+        },
+        {
+          "question": "Which band is the longest active band in the world with no breaks or line-up changes?",
+          "correct_answer": "U2",
+          "incorrect_answers": ["Radiohead", "Red Hot Chili Peppers", "Rolling Stones"]
+        },
+        {
+          "correct_answer": "Halloween",
+          "incorrect_answers": ["Friday the 13th", "Scream", "IT"],
+          "question": "Which series of films features a habitual serial killer called Michael Myers?"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Bermuda is a part of which country?",
+          "correct_answer": "The United Kingdom",
+          "incorrect_answers": ["France", "The United States", "Spain"]
+        },
+        {
+          "question": "What tiny principality lies between Spain and France?",
+          "correct_answer": "Andorra",
+          "incorrect_answers": ["Liechtenstein", "Monaco", "San Marino"]
+        },
+        {
+          "question": "Montreal is in which Canadian province?",
+          "correct_answer": "Quebec",
+          "incorrect_answers": ["Ontario", "Nova Scotia", "Alberta"]
+        },
+        {
+          "question": "Which one of these countries borders Poland?",
+          "correct_answer": "Lithuania",
+          "incorrect_answers": ["France", "Norway", "Netherlands"]
+        },
+        {
+          "question": "What is the piece of land connecting North America and South America called?",
+          "correct_answer": "Isthmus of Panama",
+          "incorrect_answers": ["Isthmus of Suez", "Urals", "Australasia"]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?",
+          "correct_answer": "Chinese Taipei",
+          "incorrect_answers": ["Chinese Taiwan", "Republic of Taiwan", "Republic of Taipei "]
+        },
+        {
+          "question": "In what year did the First World War end?",
+          "correct_answer": "1918",
+          "incorrect_answers": ["1914", "1916", "1912"]
+        },
+        {
+          "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+          "correct_answer": "Silk Road",
+          "incorrect_answers": ["Spice Road", "Clay Road", "Salt Road"]
+        },
+        {
+          "correct_answer": "Bakery",
+          "incorrect_answers": ["Pub", "Hotel", "Blacksmith"],
+          "question": "In what kind of establishment did the Great Fire of London (1666) start?"
+        },
+        {
+          "correct_answer": "Queen Victoria",
+          "incorrect_answers": ["Queen Elizabeth I", "William IV", "Edward VII"],
+          "question": "Which British monarch died in 1901?"
+        }
+      ]
+    },
+    {
+      "id": "lock6",
+      "level_type": "lock",
+      "unlock_requirement": 114,
+      "lock_after_id": 54
+    },
+    {
+      "id": 55,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "1,000,000",
+          "incorrect_answers": ["1,000", "10,000", "100,000"],
+          "question": "Roughly how many times would the earth fit inside the sun?"
+        },
+        {
+          "correct_answer": "X Rays",
+          "incorrect_answers": ["Radio Waves", "Interference", "Gamma Rays"],
+          "question": "What is a more commonly used name for Roentgen Rays?"
+        },
+        {
+          "question": "Roughly how long ago was the planet Earth formed?",
+          "correct_answer": "4.5 Billion Years",
+          "incorrect_answers": ["4.5 Million Years", "4.5 Trillion Years", "450,000 Years"]
+        },
+        {
+          "correct_answer": "Jupiter",
+          "incorrect_answers": ["Mars", "Uranus", "Neptune"],
+          "question": "Which planet in our solar system has the most moons?"
+        },
+        {
+          "correct_answer": "A bird",
+          "incorrect_answers": ["A snake", "A fish", "A mammal"],
+          "question": "What type of creature is a Nightjar?"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "A doctor with a PhD is a doctor of what?",
+          "correct_answer": "Philosophy",
+          "incorrect_answers": ["Psychology", "Phrenology", "Physical Therapy"]
+        },
+        {
+          "question": "Who is the Norse god of mischief?",
+          "correct_answer": "Loki",
+          "incorrect_answers": ["Thor", "Freya", "Baldur"]
+        },
+        {
+          "question": "In Roman Numerals, what does XL equate to?",
+          "correct_answer": "40",
+          "incorrect_answers": ["60", "15", "90"]
+        },
+        {
+          "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+          "correct_answer": "Richard Branson",
+          "incorrect_answers": ["Alan Sugar", "Donald Trump", "Bill Gates"]
+        },
+        {
+          "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+          "correct_answer": "Tango",
+          "incorrect_answers": ["Target", "Taxi", "Turkey"]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Which team made history by winning the 2015-16 English Premier League?",
+          "correct_answer": "Leicester City",
+          "incorrect_answers": ["Liverpool", "Cheslea", "Manchester United"]
+        },
+        {
+          "question": "In which state of America was the Fresh Prince of Bel-Air born and raised in?",
+          "correct_answer": "Pennsylvania",
+          "incorrect_answers": ["Florida", "California", "New Jersey"]
+        },
+        {
+          "correct_answer": "Nena",
+          "incorrect_answers": ["Daphne", "Susie", "Helen"],
+          "question": "Which artist had an 80s hit (in both German and English) with \"99 Red Balloons\"?"
+        },
+        {
+          "question": "Which member of &quot;The Beatles&quot; narrated episodes of &quot;Thomas the Tank Engine&quot;?",
+          "correct_answer": "Ringo Starr",
+          "incorrect_answers": ["George Harrison", "John Lennon", "Paul McCartney"]
+        },
+        {
+          "correct_answer": "The Bangles",
+          "incorrect_answers": ["Bananarama", "Atomic Kitten", "TLC"],
+          "question": "Which all female group originally scored a hit with \"Eternal Flame\"?"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Which of these European countries is not a part of the EU?",
+          "correct_answer": "Norway",
+          "incorrect_answers": ["Lithuania", "Ireland", "Czechia"]
+        },
+        {
+          "correct_answer": "Canberra",
+          "incorrect_answers": ["Sydney", "Melbourne", "Adelaide"],
+          "question": "What is the capital city of Australia?"
+        },
+        {
+          "question": "How many countries are within the United Kingdom?",
+          "correct_answer": "Four",
+          "incorrect_answers": ["Two", "Three", "One"]
+        },
+        {
+          "question": "Which of these is not a city in India?",
+          "correct_answer": "Islamabad",
+          "incorrect_answers": ["Hyderabad", "Ahmedabad", "Ghaziabad"]
+        },
+        {
+          "question": "Which country is completely landlocked by South Africa?",
+          "correct_answer": "Lesotho",
+          "incorrect_answers": ["Swaziland", "Botswana", "Zimbabwe"]
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "category": "History & Politics",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Hawaii",
+          "incorrect_answers": ["Alaska", "California", "New Mexico"],
+          "question": "What, in August 1959, became America's 50th state?"
+        },
+        {
+          "correct_answer": "Its stomach",
+          "incorrect_answers": ["Its feet", "Its heart", "Its brain"],
+          "question": "According to Napoleon, what does an army march on?"
+        },
+        {
+          "question": "Whose 2016 presidential campaign slogan was &quot;Make America Great Again&quot;?",
+          "correct_answer": "Donald Trump",
+          "incorrect_answers": ["Ted Cruz", "Marco Rubio", "Bernie Sanders"]
+        },
+        {
+          "question": "In 1845, a series of wars named after which indigenous people began in New Zealand?",
+          "correct_answer": "Māori",
+          "incorrect_answers": ["Papuans", "Aborigines", "Polynesians"]
+        },
+        {
+          "question": "What was William Frederick Cody better known as?",
+          "correct_answer": "Buffalo Bill",
+          "incorrect_answers": ["Billy the Kid", "Wild Bill Hickok", "Pawnee Bill"]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "category": "Science & Nature",
+      "level_type": "normal",
+      "questions": [
+        {
+          "correct_answer": "Thomas Edison",
+          "incorrect_answers": ["Benjamin Franklin", "Alexander Bell", "Nikola Tesla"],
+          "question": "Who is generally credited with invention of the lightbulb?"
+        },
+        {
+          "question": "What is the elemental symbol for mercury?",
+          "correct_answer": "Hg",
+          "incorrect_answers": ["Me", "Mc", "Hy"]
+        },
+        {
+          "question": "What is the world&#039;s longest venomous snake?",
+          "correct_answer": "King Cobra",
+          "incorrect_answers": ["Green Anaconda", "Inland Taipan", "Yellow Bellied Sea Snake"]
+        },
+        {
+          "question": "What name is given to animals which only eat plants?",
+          "correct_answer": "Herbivore",
+          "incorrect_answers": ["Vegetarian", "Vegivore", "Omnivore"]
+        },
+        {
+          "question": "Which part of the body does glaucoma affect?",
+          "correct_answer": "Eyes",
+          "incorrect_answers": ["Throat", "Stomach", "Blood"]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "category": "General Knowledge",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+          "correct_answer": "India",
+          "incorrect_answers": ["Papua New Guinea", "Ethiopia", "China"]
+        },
+        {
+          "question": "What is the Italian word for &quot;tomato&quot;?",
+          "correct_answer": "Pomodoro",
+          "incorrect_answers": ["Aglio", "Cipolla", "Peperoncino"]
+        },
+        {
+          "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+          "correct_answer": "Kilt",
+          "incorrect_answers": ["Skirt", "Dress", "Rhobes"]
+        },
+        {
+          "question": "Which country is best known for its Trappist breweries?",
+          "correct_answer": "Belgium",
+          "incorrect_answers": ["Netherlands", "France", "USA"]
+        },
+        {
+          "question": "How many notes are there on a standard grand piano?",
+          "correct_answer": "88",
+          "incorrect_answers": ["68", "108", "128"]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "category": "Entertainment & Sport",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Which famous New York Yankees outfielder did Marilyn Monroe marry?",
+          "correct_answer": "Joe DiMaggio",
+          "incorrect_answers": ["Tino Martinez", "Babe Ruth", "Mason Williams"]
+        },
+        {
+          "question": "According to a Beatles song, who kept her face in a jar by the door?",
+          "correct_answer": "Eleanor Rigby",
+          "incorrect_answers": ["Loretta Martin", "Molly Jones", "Lady Madonna"]
+        },
+        {
+          "question": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song &quot;Paper Planes&quot;?",
+          "correct_answer": "M.I.A.",
+          "incorrect_answers": ["K.I.A.", "C.I.A.", "A.I.A."]
+        },
+        {
+          "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+          "correct_answer": "Clint Eastwood",
+          "incorrect_answers": ["Steve McQueen", "Charles Bronson", "Robert Vaughn"]
+        },
+        {
+          "question": "Which movie contains the quote, &quot;I love the smell of napalm in the morning!&quot;",
+          "correct_answer": "Apocalypse Now",
+          "incorrect_answers": ["Platoon", "The Deer Hunter", "Full Metal Jacket"]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "category": "Geography & Cultures",
+      "level_type": "normal",
+      "questions": [
+        {
+          "question": "Which US state has the highest population?",
+          "correct_answer": "California",
+          "incorrect_answers": ["New York", "Texas", "Florida"]
+        },
+        {
+          "question": "How many time zones does China, one of the largest countries on earth, have?",
+          "correct_answer": "1",
+          "incorrect_answers": ["3", "4", "2"]
+        },
+        {
+          "question": "How many countries does the United States share a land border with?",
+          "correct_answer": "2",
+          "incorrect_answers": ["1", "3", "4"]
+        },
+        {
+          "question": "Where are the Nazca Lines located?",
+          "correct_answer": "Peru",
+          "incorrect_answers": ["Brazil", "Colombia", "Ecuador"]
+        },
+        {
+          "question": "What is the smallest country in South America by area?",
+          "correct_answer": "Suriname",
+          "incorrect_answers": ["Brazil", "Uruguay", "Chile"]
+        }
+      ]
+    }
+  ]
+}

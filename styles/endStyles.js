@@ -1,0 +1,105 @@
+import { StyleSheet } from 'react-native'
+
+const s = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    overflow: 'hidden',
+  },
+  stars: {
+    paddingHorizontal: 20,
+  },
+  levelText: {
+    marginTop: 20,
+    fontFamily: 'Chewy_400Regular',
+    fontSize: 40,
+    color: 'white',
+    paddingHorizontal: 20,
+  },
+  scoreText: {
+    color: 'white',
+    fontFamily: 'Ubuntu_500Medium',
+    fontSize: 25,
+    letterSpacing: -1,
+    paddingHorizontal: 20,
+    marginTop: 20,
+    opacity: 0.7,
+  },
+  tryAgainText: {
+    fontFamily: 'Ubuntu_500Medium',
+    fontSize: 25,
+    textAlign: 'left',
+    color: 'white',
+    paddingHorizontal: 20,
+    marginTop: 20,
+    opacity: 0.7,
+    letterSpacing: -1,
+  },
+  unlockBlock: {
+    paddingHorizontal: 20,
+    marginTop: 20,
+  },
+  unlockBlockText: {
+    fontFamily: 'Ubuntu_500Medium',
+    fontSize: 25,
+    textAlign: 'left',
+    color: 'white',
+    opacity: 0.7,
+    letterSpacing: -1,
+  },
+  startButton: {
+    padding: 18,
+    backgroundColor: 'white',
+    width: '100%',
+    textAlign: 'center',
+    borderRadius: 10,
+    shadowColor: '#000',
+    marginTop: 15,
+    flexDirection: 'row',
+    alignItems: 'center',
+    shadowOffset: {
+      width: 0,
+      height: 6,
+    },
+    shadowOpacity: 0.15,
+    shadowRadius: 2,
+    elevation: 10,
+  },
+  startButtonText: {
+    fontSize: 24,
+    fontFamily: 'Ubuntu_700Bold',
+    color: '#60433a',
+    textAlign: 'left',
+    letterSpacing: -1,
+    marginLeft: 10,
+  },
+  startButtonPressed: {
+    transform: [{ translateY: 5 }],
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.4,
+    elevation: 5,
+  },
+  buttonIcon: {
+    width: 50,
+    height: 50,
+    borderRadius: 7,
+    color: '#60433a',
+    alignItems: 'center',
+    justifyContent: 'center',
+    overflow: 'hidden',
+    marginRight: 15,
+    borderWidth: 1,
+    borderColor: 'rgba(0,0,0,0.1)',
+  },
+  buttons: {
+    width: '100%',
+    alignItems: 'center',
+    paddingHorizontal: 20,
+    marginTop: 10,
+  },
+})
+
+export { s }

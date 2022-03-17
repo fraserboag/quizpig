@@ -1,0 +1,27 @@
+[
+  {
+    "correct_answer": "Manhattan Project",
+    "incorrect_answers": ["Brooklyn Project", "Bronx Project", "Queens Project"],
+    "question": "What was the name of the U.S. World War II research and development project to create nuclear weapons?"
+  },
+  {
+    "question": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+    "correct_answer": "Richard III",
+    "incorrect_answers": ["Edward V", "Henry VII", "James I"]
+  },
+  {
+    "question": "Who was the first explorer to sail to North America?",
+    "correct_answer": "Leif Erikson",
+    "incorrect_answers": ["Christopher Columbus", "Amerigo Vespucci", "Ferdinand Magellan"]
+  },
+  {
+    "question": "What did the first vending machines in the early 1880&#039;s dispense?",
+    "correct_answer": "Post cards",
+    "incorrect_answers": ["Alcohol", "Cigarettes", "Sodas "]
+  },
+  {
+    "question": "Who discovered Penicillin?",
+    "correct_answer": "Alexander Flemming",
+    "incorrect_answers": ["Marie Curie", "Alfred Nobel", "Louis Pasteur"]
+  }
+]
