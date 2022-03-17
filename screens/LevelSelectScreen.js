@@ -1,4 +1,4 @@
-import { Text, Pressable, ScrollView, View, Image, Linking } from 'react-native'
+import { Animated, Easing, Text, Pressable, ScrollView, View, Image, Linking } from 'react-native'
 import quizData from '../data/quizData.json'
 import { disableFirstLaunch, setSelectedLevel } from '../slices/progressSlice'
 import { useDispatch, useSelector } from 'react-redux'
@@ -12,8 +12,7 @@ import { useState } from 'react'
 import { Ionicons } from '@expo/vector-icons'
 import { useRef, useEffect } from 'react'
 import { Analytics, PageHit } from 'expo-analytics'
-
-// import AsyncStorage from '@react-native-async-storage/async-storage'
+import AsyncStorage from '@react-native-async-storage/async-storage'
 
 const LevelSelectScreen = ({ navigation }) => {
   const dispatch = useDispatch()
@@ -47,6 +46,46 @@ const LevelSelectScreen = ({ navigation }) => {
 
   let firstLockedLevel = 999999
 
+  /* Modal Animations */
+  const modalOpacity = useRef(new Animated.Value(0)).current
+  const modalScale = useRef(new Animated.Value(0.6)).current
+  const openModal = () => {
+    Animated.timing(modalOpacity, {
+      toValue: 1,
+      duration: 400,
+      easing: Easing.elastic(1.5),
+      useNativeDriver: true,
+    }).start()
+    Animated.timing(modalScale, {
+      toValue: 1,
+      duration: 400,
+      easing: Easing.elastic(1.5),
+      useNativeDriver: true,
+    }).start()
+  }
+  const closeModal = () => {
+    Animated.timing(modalOpacity, {
+      toValue: 0,
+      duration: 400,
+      easing: Easing.elastic(1.5),
+      useNativeDriver: true,
+    }).start()
+    Animated.timing(modalScale, {
+      toValue: 0.6,
+      duration: 400,
+      easing: Easing.elastic(1.5),
+      useNativeDriver: true,
+    }).start()
+  }
+  useEffect(() => {
+    if (isFirstLaunch) {
+      setTimeout(() => {
+        openModal()
+      }, 100)
+    }
+  }, [])
+  /* End Modal Animations */
+
   return (
     <View style={global.container}>
       <LinearGradient colors={['#12c2e9', '#c471ed']} style={global.background} />
@@ -60,17 +99,23 @@ const LevelSelectScreen = ({ navigation }) => {
           <Text>Clear storage</Text>
         </Pressable> */}
         {isFirstLaunch && (
-          <View style={s.firstLaunch}>
+          <Animated.View style={[s.firstLaunch, { opacity: modalOpacity, transform: [{ scale: modalScale }] }]}>
+            <Text style={[s.firstLaunchText, s.title]}>Welcome to QuizPig!</Text>
             <Text style={s.firstLaunchText}>
-              Welcome to QuizPig! Play quizzes to earn stars. Use stars to unlock more quizzes!
+              Play quizzes to earn stars, use stars to unlock more quizzes. Have fun!
             </Text>
-            <Pressable style={s.firstLaunchBtn} onPress={() => dispatch(disableFirstLaunch())}>
-              <View style={s.firstLaunchBtnTextWrapper}>
-                <Ionicons name='play-circle-outline' size={30} color='#60433a' />
-                <Text style={s.firstLaunchBtnText}>Get started</Text>
-              </View>
+            <Pressable
+              style={s.firstLaunchBtn}
+              onPress={() => {
+                closeModal()
+                setTimeout(() => {
+                  dispatch(disableFirstLaunch())
+                }, 400)
+              }}
+            >
+              <Text style={s.firstLaunchBtnText}>Get started</Text>
             </Pressable>
-          </View>
+          </Animated.View>
         )}
         <View style={s.headerWrapper}>
           <View style={s.header}>
@@ -178,12 +223,11 @@ const LevelSelectScreen = ({ navigation }) => {
           <View style={s.iapContainer}>
             <Text style={s.iapTitle}>Support QuizPig</Text>
             <Text style={s.iapIntro}>
-              QuizPig is designed, built and maintained by one person! It also has no ads and is completely free. If
-              you're enjoying playing and are feeling generous, I'd be extremely grateful if you would consider buying
-              me a coffee at the link below.
+              QuizPig is designed, built and maintained by one person! If you're enjoying the game I'd be extremely
+              grateful if you would consider buying me a coffee at the link below.
             </Text>
             <Text style={s.iapIntro}>
-              If you can't afford it, or just don't want to, please continue enjoying the game on me!
+              If you can't afford it, or just don't want to, please continue enjoying the game free of charge.
             </Text>
             <Pressable
               style={[s.iapButton, { backgroundColor: '#facc15' }]}
