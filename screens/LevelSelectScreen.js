@@ -224,7 +224,8 @@ const LevelSelectScreen = ({ navigation }) => {
             <Text style={s.iapTitle}>Support QuizPig</Text>
             <Text style={s.iapIntro}>
               QuizPig is designed, built and maintained by one person! If you're enjoying the game I'd be extremely
-              grateful if you would consider buying me a coffee at the link below.
+              grateful if you would consider contributing to ongoing development costs by "buying me a coffee" at the
+              link below.
             </Text>
             <Text style={s.iapIntro}>
               If you can't afford it, or just don't want to, please continue enjoying the game free of charge.

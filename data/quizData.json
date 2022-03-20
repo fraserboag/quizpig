@@ -198,7 +198,7 @@
       "level_type": "normal",
       "questions": [
         {
-          "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
+          "question": "Who starred in the 1973 movie &quot;Enter The Dragon&quot;?",
           "correct_answer": "Bruce Lee",
           "incorrect_answers": ["Jackie Chan", "Jet Li", "Yun-Fat Chow"]
         },
@@ -901,9 +901,9 @@
           "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"]
         },
         {
-          "question": "What country is the second largest in the world by area?",
+          "question": "What country is the second largest in the world by area, after Russia?",
           "correct_answer": "Canada",
-          "incorrect_answers": ["Russia", "China", "United States of America"]
+          "incorrect_answers": ["Brazil", "China", "United States of America"]
         },
         {
           "correct_answer": "Quito",
