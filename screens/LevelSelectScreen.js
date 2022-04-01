@@ -1,4 +1,4 @@
-import { Animated, Easing, Text, Pressable, ScrollView, View, Image, Linking } from 'react-native'
+import { Animated, Easing, Text, Pressable, ScrollView, View, Image, Linking, Platform } from 'react-native'
 import quizData from '../data/quizData.json'
 import { disableFirstLaunch, setSelectedLevel } from '../slices/progressSlice'
 import { useDispatch, useSelector } from 'react-redux'
@@ -220,29 +220,35 @@ const LevelSelectScreen = ({ navigation }) => {
               }
             })}
           </View>
-          <View style={s.iapContainer}>
-            <Text style={s.iapTitle}>Support QuizPig</Text>
-            <Text style={s.iapIntro}>
-              QuizPig is designed, built and maintained by one person! If you're enjoying the game I'd be extremely
-              grateful if you would consider contributing to ongoing development costs by "buying me a coffee" at the
-              link below.
-            </Text>
-            <Text style={s.iapIntro}>
-              If you can't afford it, or just don't want to, please continue enjoying the game free of charge.
-            </Text>
-            <Pressable
-              style={[s.iapButton, { backgroundColor: '#facc15' }]}
-              onPress={() => Linking.openURL('https://www.buymeacoffee.com/boag')}
-            >
-              <Image source={require('../assets/sunburst-transparent.png')} style={s.iapButtonBackground} />
-              <View style={s.iapButtonTitle}>
-                <Text style={s.iapButtonTitleText}>Buy me a coffee</Text>
-                <Ionicons style={s.coffeeIcon} name='cafe-outline' size={50} color='#ffffff' />
-              </View>
-              <Text style={s.iapButtonText}>Opens an external link</Text>
-            </Pressable>
-          </View>
-          <Pressable onPress={() => Linking.openURL('https://boag.online')} style={s.boagLogoWrapper} hitSlop={20}>
+          {Platform.OS !== 'android' && (
+            <View style={s.iapContainer}>
+              <Text style={s.iapTitle}>Support QuizPig</Text>
+              <Text style={s.iapIntro}>
+                QuizPig is designed, built and maintained by one person! If you're enjoying the game I'd be extremely
+                grateful if you would consider contributing to ongoing development costs by "buying me a coffee" at the
+                link below.
+              </Text>
+              <Text style={s.iapIntro}>
+                If you can't afford it, or just don't want to, please continue enjoying the game free of charge.
+              </Text>
+              <Pressable
+                style={[s.iapButton, { backgroundColor: '#facc15' }]}
+                onPress={() => Linking.openURL('https://www.buymeacoffee.com/boag')}
+              >
+                <Image source={require('../assets/sunburst-transparent.png')} style={s.iapButtonBackground} />
+                <View style={s.iapButtonTitle}>
+                  <Text style={s.iapButtonTitleText}>Buy me a coffee</Text>
+                  <Ionicons style={s.coffeeIcon} name='cafe-outline' size={50} color='#ffffff' />
+                </View>
+                <Text style={s.iapButtonText}>Opens an external link</Text>
+              </Pressable>
+            </View>
+          )}
+          <Pressable
+            onPress={() => Linking.openURL('https://boag.online/quizpig')}
+            style={s.boagLogoWrapper}
+            hitSlop={20}
+          >
             <Image source={require('../assets/boag-logo.png')} style={s.boagLogo} resizeMode='contain' />
           </Pressable>
         </ScrollView>

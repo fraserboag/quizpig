@@ -17,11 +17,11 @@
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.fraserboag.quizpig",
-      "buildNumber": "7"
+      "buildNumber": "8"
     },
     "android": {
       "package": "com.fraserboag.quizpig",
-      "versionCode": 7
+      "versionCode": 8
     }
   }
 }

@@ -232,7 +232,7 @@ const s = StyleSheet.create({
   iapContainer: {
     backgroundColor: 'white',
     marginHorizontal: '3%',
-    marginBottom: 25,
+    marginBottom: 5,
     marginTop: 10,
     padding: 20,
     borderRadius: 10,
@@ -296,6 +296,7 @@ const s = StyleSheet.create({
     height: 30,
     opacity: 0.4,
     marginBottom: 40,
+    marginTop: 20,
     marginLeft: 'auto',
     marginRight: 'auto',
   },

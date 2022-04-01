@@ -66,7 +66,11 @@ const HomeScreen = ({ navigation }) => {
       </Pressable>
 
       <View style={s.fixedFooter}>
-        <Pressable onPress={() => Linking.openURL('https://boag.online')} style={s.boagLogoWrapper} hitSlop={20}>
+        <Pressable
+          onPress={() => Linking.openURL('https://boag.online/quizpig')}
+          style={s.boagLogoWrapper}
+          hitSlop={20}
+        >
           <Image source={require('../assets/boag-logo.png')} style={s.boagLogo} resizeMode='contain' />
         </Pressable>
         <Pressable style={s.creditsBtn} onPress={() => navigation.navigate('Credits')} hitSlop={20}>
