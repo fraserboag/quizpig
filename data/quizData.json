@@ -279,7 +279,7 @@
         {
           "question": "Which of these countries was an allied power in World War II?",
           "correct_answer": "Soviet Union",
-          "incorrect_answers": ["Italy", "Germany", "Japan"]
+          "incorrect_answers": ["South Africa", "Germany", "Japan"]
         },
         {
           "correct_answer": "Rubicon",
@@ -1392,7 +1392,7 @@
           "question": "What is the capital of Nigeria?"
         },
         {
-          "correct_answer": "Kiev",
+          "correct_answer": "Kyiv",
           "incorrect_answers": ["Minsk", "Budapest", "Bucharest"],
           "question": "What is the capital of Ukraine?"
         },
@@ -1900,7 +1900,7 @@
         {
           "question": "Which country is completely landlocked by South Africa?",
           "correct_answer": "Lesotho",
-          "incorrect_answers": ["Swaziland", "Botswana", "Zimbabwe"]
+          "incorrect_answers": ["Eswatini", "Botswana", "Zimbabwe"]
         }
       ]
     },
