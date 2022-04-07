@@ -741,7 +741,7 @@
         },
         {
           "correct_answer": "Mt. Fuji",
-          "incorrect_answers": ["Mt. Kita", "Mt. Fuji", "Mt. Yari"],
+          "incorrect_answers": ["Mt. Kita", "Olympus Mons", "Mt. Yari"],
           "question": "What is the tallest mountain in Japan?"
         },
         {
@@ -1266,7 +1266,7 @@
         {
           "correct_answer": "Walter Raleigh",
           "incorrect_answers": ["Christopher Columbus", "Francis Drake", "Roald Amundsen"],
-          "question": "Which 13th century explorer was buried with a pipe and a box of tobacco?"
+          "question": "Which explorer is said to have been buried with a pipe and a box of tobacco?"
         },
         {
           "question": "Who was the British Prime Minister at the outbreak of the Second World War?",
